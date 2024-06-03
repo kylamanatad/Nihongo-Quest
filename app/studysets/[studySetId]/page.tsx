@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { FaArrowLeft } from 'react-icons/fa';
 
-import { genkiData } from '@/data';
+import { nihongoData } from '@/data';
 
 interface StudySetProps {
   params: {
@@ -11,7 +11,7 @@ interface StudySetProps {
 
 export default function StudySet({ params }: StudySetProps) {
   const { studySetId } = params;
-  const studySet = genkiData.filter((set) => set.slug === studySetId)[0];
+  const studySet = nihongoData.filter((set) => set.slug === studySetId)[0];
 
   return (
     <div className="w-full rounded-lg bg-black border border-violet-900 p-4 lg:p-6">

@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { FaArrowLeft } from 'react-icons/fa';
 
 import Flashcard from '@/components/Flashcard';
-import { genkiData } from '@/data';
+import { nihongoData } from '@/data';
 
 interface FlashcardPageProps {
   params: {
@@ -14,7 +14,7 @@ interface FlashcardPageProps {
 
 export default function FlashcardPage({ params }: FlashcardPageProps) {
   const { studySetId, lessonId, flashcardId } = params;
-  const studySet = genkiData.filter((set) => set.slug === studySetId)[0];
+  const studySet = nihongoData.filter((set) => set.slug === studySetId)[0];
   const lesson = studySet.data.filter((lesson) => lesson.slug === lessonId)[0];
   const unit = lesson.units.filter((unit) => unit.slug === flashcardId)[0];
 

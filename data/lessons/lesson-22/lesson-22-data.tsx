@@ -1,7 +1,7 @@
 const lesson_22_data = {
   lessonNumber: 22,
   lessonTitle: 'Education in Japan',
-  lessonPages: 'Genki II: p.228-249',
+  lessonPages: 'Nihongo II: p.228-249',
   slug: 'lesson-22',
   units: [
     {

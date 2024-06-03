@@ -1,7 +1,7 @@
 const lesson_7_data = {
   lessonNumber: 7,
   lessonTitle: 'Family Picture',
-  lessonPages: 'Genki I: p.166-185',
+  lessonPages: 'Nihongo I: p.166-185',
   slug: 'lesson-7',
   units: [
     {

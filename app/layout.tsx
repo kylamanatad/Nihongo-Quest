@@ -6,8 +6,8 @@ import Footer from '@/components/Footer';
 import ScrollToTopButton from '@/components/ScrollToTopButton';
 
 export const metadata: Metadata = {
-  title: 'Sakura Flashcards',
-  description: 'A flashcard app for learning Japanese using the Genki textbook series.',
+  title: 'Nihongo Quest',
+  description: 'A flashcard app for learning Japanese using the Nihongo textbook series.',
 };
 
 export default function RootLayout({

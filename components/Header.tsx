@@ -22,13 +22,13 @@ const Header = () => {
             className="flex items-center gap-2 hover:opacity-60 custom-transition"
           >
             <Image
-              src="/assets/images/sakura-flashcards-logo.svg"
+              src="/assets/images/nq-logo.png"
               alt="Personal logo"
               width={40}
               height={40}
             />
             <Image
-              src="/assets/images/sakura-flashcards-text-logo.png"
+              src="/assets/images/nq-text.png"
               alt="Personal logo"
               height={28}
               width={130}

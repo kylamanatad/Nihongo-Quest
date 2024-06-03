@@ -1,7 +1,7 @@
 const lesson_4_data = {
   lessonNumber: 4,
   lessonTitle: 'The First Date',
-  lessonPages: 'Genki I: p.102-127',
+  lessonPages: 'Nihongo I: p.102-127',
   slug: 'lesson-4',
   units: [
     {

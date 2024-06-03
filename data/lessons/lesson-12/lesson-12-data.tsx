@@ -1,7 +1,7 @@
 const lesson_12_data = {
   lessonNumber: 12,
   lessonTitle: 'Feeling Ill',
-  lessonPages: 'Genki I: p.272-294',
+  lessonPages: 'Nihongo I: p.272-294',
   slug: 'lesson-12',
   units: [
     {

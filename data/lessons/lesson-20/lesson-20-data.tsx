@@ -1,7 +1,7 @@
 const lesson_20_data = {
   lessonNumber: 20,
   lessonTitle: 'Mary Goes Shopping',
-  lessonPages: 'Genki II: p.180-205',
+  lessonPages: 'Nihongo II: p.180-205',
   slug: 'lesson-20',
   units: [
     {

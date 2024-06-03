@@ -1,7 +1,7 @@
 const lesson_10_data = {
   lessonNumber: 10,
   lessonTitle: 'Winter Vacation Plans',
-  lessonPages: 'Genki I: p.230-253',
+  lessonPages: 'Nihongo I: p.230-253',
   slug: 'lesson-10',
   units: [
     {

@@ -1,7 +1,7 @@
 const lesson_21_data = {
   lessonNumber: 21,
   lessonTitle: 'Burglar',
-  lessonPages: 'Genki II: p.206-227',
+  lessonPages: 'Nihongo II: p.206-227',
   slug: 'lesson-21',
   units: [
     {

@@ -1,7 +1,7 @@
 const lesson_17_data = {
   lessonNumber: 17,
   lessonTitle: 'Grumble and Gossip',
-  lessonPages: 'Genki II: p.114-135',
+  lessonPages: 'Nihongo II: p.114-135',
   slug: 'lesson-17',
   units: [
     {

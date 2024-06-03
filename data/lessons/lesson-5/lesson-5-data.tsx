@@ -1,7 +1,7 @@
 const lesson_5_data = {
   lessonNumber: 5,
   lessonTitle: 'A Trip to Okinawa',
-  lessonPages: 'Genki I: p.128-145',
+  lessonPages: 'Nihongo I: p.128-145',
   slug: 'lesson-5',
   units: [
     {

@@ -1,7 +1,7 @@
 export const navLinks = [
   { href: '/', key: 'Home', text: 'Home' },
-  { href: '/studysets', studySetId: 'genki-1', key: 'genki-1', text: 'Genki Vol. 1' },
-  { href: '/studysets', studySetId: 'genki-2', key: 'genki-2', text: 'Genki Vol. 2' },
+  { href: '/studysets', studySetId: 'nihongo-1', key: 'nihongo-1', text: 'Vol. 1' },
+  { href: '/studysets', studySetId: 'nihongo-2', key: 'nihongo-2', text: 'Vol. 2' },
 ];
 
 type Item = {
@@ -15,14 +15,14 @@ export const StudySets: { name: string; items: Item[] }[] = [
     name: 'Study Sets',
     items: [
       {
-        name: 'Genki Volume I (Third Edition)',
-        slug: 'studysets/genki-1',
-        description: 'A beginner course in elementary Japanese (Lessons 1-12)',
+        name: 'Volume I (Lesson 1-12)',
+        slug: 'studysets/nihongo-1',
+        description: 'A beginner course in elementary Japanese',
       },
       {
-        name: 'Genki Volume II (Third Edition)',
-        slug: 'studysets/genki-2',
-        description: 'An intermediate course in elementary Japanese (Lessons 13-23)',
+        name: 'Volume II (Lesson 13-23)',
+        slug: 'studysets/nihongo-2',
+        description: 'An intermediate course in elementary Japanese',
       },
     ],
   },

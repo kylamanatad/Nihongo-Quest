@@ -1,7 +1,7 @@
 const lesson_16_data = {
   lessonNumber: 16,
   lessonTitle: 'Lost and Found',
-  lessonPages: 'Genki II: p.92-113',
+  lessonPages: 'Nihongo II: p.92-113',
   slug: 'lesson-16',
   units: [
     {

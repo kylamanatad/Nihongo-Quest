@@ -7,21 +7,21 @@ export default function Home() {
       <div className="relative overflow-hidden w-full rounded-lg bg-black border border-violet-900 p-4 lg:p-6">
         <div className="relative z-10 space-y-10">
           <div>
-            <h1 className="text-4xl font-bold">Sakura Flashcards</h1>
+            <h1 className="text-4xl font-bold">Nihongo Quest</h1>
             <p className="mt-3 md:text-lg">
-              Welcome to Sakura Flashcards, your ultimate study companion for mastering Japanese! Designed to align
-              seamlessly with the{' '}
+              Welcome to Nihongo Quest, your ultimate study companion for mastering Japanese! 
+              Our exercises are specifically designed to complement the lessons from{' '}
               <span>
                 <Link
-                  href="https://genki3.japantimes.co.jp/en/"
+                  href="https://t-nagano.com/projects/JapaneseNihongo3rdEdAudio/"
                   className="text-violet-400 hover:text-violet-300 hover:underline"
                 >
-                  Genki: An Integrated Course in Elementary Japanese (Third Edition)
+                  Nihongo: An Integrated Course in Elementary Japanese (Third Edition)
                 </Link>
               </span>{' '}
-              textbooks, our exercises are tailored to reinforce your understanding and retention of each lesson's
-              material. Simply navigate to any lesson and select the exercise you'd like to tackle. Dive in, challenge
-              yourself, and watch your Japanese skills soar! Happy studying!
+              enhancing your comprehension and retention of each lesson's
+              material. Simply choose any lesson and select the exercise you wish to complete. 
+              Jump in, challenge yourself, and watch your Japanese skills improve! Happy studying!
             </p>
           </div>
 

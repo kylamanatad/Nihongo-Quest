@@ -1,7 +1,7 @@
 const lesson_6_data = {
   lessonNumber: 6,
   lessonTitle: "A Day in Robert's Life",
-  lessonPages: 'Genki I: p.146-165',
+  lessonPages: 'Nihongo I: p.146-165',
   slug: 'lesson-6',
   units: [
     {

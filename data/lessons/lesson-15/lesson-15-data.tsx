@@ -1,7 +1,7 @@
 const lesson_15_data = {
   lessonNumber: 15,
   lessonTitle: "A Trip to Nagano",
-  lessonPages: 'Genki II: p.70-91',
+  lessonPages: 'Nihongo II: p.70-91',
   slug: 'lesson-15',
   units: [
     {

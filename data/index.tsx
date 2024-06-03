@@ -23,7 +23,7 @@ import lesson_21_data from './lessons/lesson-21/lesson-21-data';
 import lesson_22_data from './lessons/lesson-22/lesson-22-data';
 import lesson_23_data from './lessons/lesson-23/lesson-23-data';
 
-const genki_1_data = [
+const nihongo_1_data = [
   lesson_0_data,
   lesson_1_data,
   lesson_2_data,
@@ -39,7 +39,7 @@ const genki_1_data = [
   lesson_12_data,
 ];
 
-const genki_2_data = [
+const nihongo_2_data = [
   lesson_13_data,
   lesson_14_data,
   lesson_15_data,
@@ -53,7 +53,7 @@ const genki_2_data = [
   lesson_23_data,
 ];
 
-export const genkiData = [
-  { name: 'Genki Vol. I', slug: 'genki-1', data: genki_1_data },
-  { name: 'Genki Vol. II', slug: 'genki-2', data: genki_2_data },
+export const nihongoData = [
+  { name: 'Vol. I', slug: 'nihongo-1', data: nihongo_1_data },
+  { name: 'Vol. II', slug: 'nihongo-2', data: nihongo_2_data },
 ];

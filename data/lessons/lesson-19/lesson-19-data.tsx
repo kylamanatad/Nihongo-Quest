@@ -1,7 +1,7 @@
 const lesson_19_data = {
   lessonNumber: 19,
   lessonTitle: 'Meeting the Boss',
-  lessonPages: 'Genki II: p.160-179',
+  lessonPages: 'Nihongo II: p.160-179',
   slug: 'lesson-19',
   units: [
     {

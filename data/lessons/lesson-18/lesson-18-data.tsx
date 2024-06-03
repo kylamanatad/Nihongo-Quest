@@ -1,7 +1,7 @@
 const lesson_18_data = {
   lessonNumber: 18,
   lessonTitle: "John's Part-time Job",
-  lessonPages: 'Genki II: p.136-159',
+  lessonPages: 'Nihongo II: p.136-159',
   slug: 'lesson-18',
   units: [
     {

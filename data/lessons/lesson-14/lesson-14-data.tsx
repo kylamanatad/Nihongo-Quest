@@ -1,7 +1,7 @@
 const lesson_14_data = {
   lessonNumber: 14,
   lessonTitle: "Valentine's Day",
-  lessonPages: 'Genki II: p.46-69',
+  lessonPages: 'Nihongo II: p.46-69',
   slug: 'lesson-14',
   units: [
     {
